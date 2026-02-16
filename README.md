@@ -1,8 +1,8 @@
-# Panda Express Multi-View Website System
+# Restaurant Management System (Panda Express)
 
 **Overview:**
 
-This is a web system for Panda Express, designed to improve order management and customer experience. It has multiple views: Register, Manager, Kiosk, Kitchen, and Menu Board. It’s built with Express.js for the backend, EJS for frontend rendering, and PostgreSQL for database management. Docker is used for easy deployment.
+This is a Restaurant Management web system for Panda Express, designed to improve order management and customer experience. It has multiple views: Register, Manager, Kiosk, Kitchen, and Menu Board. It’s built with Express.js for the backend, EJS for frontend rendering, and PostgreSQL for database management. Docker is used for easy deployment.
 
 **Features:**
 - **Register View:** Process orders and promotions.
@@ -68,6 +68,7 @@ This is a web system for Panda Express, designed to improve order management and
 The backend was originally connected to a PostgreSQL database hosted by our university. We no longer have access to this database. As a result:
 - Login and any actions that require database interaction (e.g., placing orders, updating menu items) will not work.
 - You can still explore the frontend pages by visiting the routes listed in step 7.
+
 
 
 
